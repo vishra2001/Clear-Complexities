@@ -35,6 +35,6 @@ I believe that technical documentation is a critical component of the user exper
 If you are interested in my work or would like to discuss a potential collaboration, please feel free to reach out through any of the following channels:
 
 * Email: vishra2001@gmail.com
-* LinkedIn: www.linkedin.com/in/amyhadassahokorie
+* LinkedIn: www.linkedin.com/gayathrisuria
 
 Thank you for visiting my portfolio. I look forward to the possibility of connecting and working together!
