@@ -15,18 +15,26 @@ I believe that technical documentation is a critical component of the user exper
 
 # Portfolio Contents
 
-* Deployment & Integration Guides - Comprehensive, step-by-step instructions for complex systems like the Cisco Nexus Dashboard, ensuring successful installation and setup.
-* API & Developer Documentation - Detailed documentation for developers, including API references created using Swagger and AsciiDoc to facilitate seamless integrations.
-* UX Writing & Microcontent - Examples of in-product help, tooltips, and UI workflows designed in Figma to guide users intuitively through software interfaces.
-* Release Notes - Clear and impactful summaries of new features, enhancements, and bug fixes for major product releases.
-* Multimedia Summaries - High-impact video summaries of long-form technical articles created to expand content reach and accessibility.
-* Knowledge Base Articles - Search-optimized (SEO) help center content and troubleshooting guides that have successfully reduced support ticket volume.
+* **Deployment & Integration Guides** - Comprehensive, step-by-step instructions for complex systems like the Cisco Nexus Dashboard, ensuring successful installation and setup.
+* **API & Developer Documentation** - Detailed documentation for developers, including API references created using Swagger and AsciiDoc to facilitate seamless integrations.
+* **UX Writing & Microcontent** - Examples of in-product help, tooltips, and UI workflows designed in Figma to guide users intuitively through software interfaces.
+* **Release Notes** - Clear and impactful summaries of new features, enhancements, and bug fixes for major product releases.
+* **Multimedia Summaries** - High-impact video summaries of long-form technical articles created to expand content reach and accessibility.
+* **Knowledge Base Articles** - Search-optimized (SEO) help center content and troubleshooting guides that have successfully reduced support ticket volume.
 
 # Skills Demonstrated
 
-* Technical Authoring - Visual Studio Code (AsciiDoc), Oxygen XML, MadCap Flare, Adobe FrameMaker, DITA.
-* UX & Design - UI/UX Writing, Figma Mockup Reviews, Information Architecture, Accessibility (WCAG) best practices.
-* Developer Tools - API Documentation (Swagger), Git/GitHub (Pull Request workflows), HTML/XML, Python basics.
-* AI & Innovation - Gen AI Prompt Engineering for content scalability, AI-powered workflow implementation.
-* Project Management - Agile methodologies, Jira, Confluence, Smartsheet.
-* User Research & Analysis - Qualtrics feedback analysis, Google Analytics, and partner support shadowing.
+* **Technical Authoring** - Visual Studio Code (AsciiDoc), Oxygen XML, MadCap Flare, Adobe FrameMaker, DITA.
+* **UX & Design** - UI/UX Writing, Figma Mockup Reviews, Information Architecture, Accessibility (WCAG) best practices.
+* **Developer Tools** - API Documentation (Swagger), Git/GitHub (Pull Request workflows), HTML/XML, Python basics.
+* **AI & Innovation** - Gen AI Prompt Engineering for content scalability, AI-powered workflow implementation.
+* **Project Management** - Agile methodologies, Jira, Confluence, Smartsheet.
+* **User Research & Analysis** - Qualtrics feedback analysis, Google Analytics, and partner support shadowing.
+
+# Contact Me
+If you are interested in my work or would like to discuss a potential collaboration, please feel free to reach out through any of the following channels:
+
+* Email: vishra2001@gmail.com
+* LinkedIn: www.linkedin.com/in/amyhadassahokorie
+
+Thank you for visiting my portfolio. I look forward to the possibility of connecting and working together!
